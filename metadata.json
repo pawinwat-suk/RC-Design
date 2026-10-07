@@ -1,0 +1,6 @@
+{
+  "name": "RC Structural Design - วิศวกรรมโครงสร้าง ค.ส.ล. บ้านพักอาศัย",
+  "description": "โปรแกรมวิเคราะห์และออกแบบโครงสร้างคอนกรีตเสริมเหล็กบ้านพักอาศัยครบวงจร ตามมาตรฐาน วสท., ACI 318 และกฎกระทรวง พร้อมส่งออกรายงานคำนวณ PDF พัฒนาโดย นายปวินท์วัฒน์ สุขขี",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
